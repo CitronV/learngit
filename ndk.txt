@@ -1,4 +1,4 @@
-Mac ndk-build config 
+Mac ndk-build config one more time
 
 ndk-build -j 20 NDK_APPLICATION_MK="Application-4.9.mk"
 
